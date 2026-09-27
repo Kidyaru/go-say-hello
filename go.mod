@@ -1,3 +1,3 @@
-module github.com/Kidyaru/go-say-hello
+module github.com/Kidyaru/go-say-hello/v2
 
 go 1.27.1
